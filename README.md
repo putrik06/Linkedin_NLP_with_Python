@@ -18,4 +18,4 @@ With the increased amount of data publicly available and the increased focus on 
 ### Python Machine Learning  Natural Language Processing (NLP) 
 
 # The tutorial link
-[Link Text]https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/
+https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/
