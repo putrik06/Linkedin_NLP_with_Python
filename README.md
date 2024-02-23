@@ -15,4 +15,4 @@ With the increased amount of data publicly available and the increased focus on 
 - Recall three benefits of using ensemble methods.
 
 # Skills covered
-##Python ##Machine Learning ##Natural Language Processing (NLP) 
+# Python # Machine Learning # Natural Language Processing (NLP) 
